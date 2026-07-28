@@ -1,2 +1,4 @@
 # tdRL_analysis
-Code for analyses in tdRL paper *Note: cluster 1&amp;4 (original clusternum from hierarchial clustering) is referred as cluster 1&amp;2 in paper
+Code used for the analyses presented in the tdRL paper.
+
+Note: Clusters 1 and 4, based on the original cluster numbering from hierarchical clustering, are referred to as clusters 1 and 2, respectively, in the paper.
